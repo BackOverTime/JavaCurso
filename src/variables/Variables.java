@@ -4,6 +4,6 @@ public class Variables {
 	
 	public static void main(String[] args) {
 		int numero;
-		numero=3;
+		numero=2;
 	}
 }
